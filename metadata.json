@@ -1,0 +1,6 @@
+{
+  "name": "Global Transport Empire",
+  "description": "Stylized 3D transport and logistics tycoon simulation game built with Three.js and TypeScript.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
